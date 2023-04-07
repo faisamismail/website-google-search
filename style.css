@@ -13,3 +13,17 @@ input{
     border-radius: 20px;
     font-size: 20px;
 }
+.submit{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 15px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: blue;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
