@@ -1,0 +1,15 @@
+.google-title{
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.search-input{
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 40%;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+}
